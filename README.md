@@ -1,7 +1,8 @@
 ### Olá! Eu sou o Elizeu  👋
 
-- 🔭 Hoje trabalho com Analise de Dados do setor Logístico. 
+- 🔭 Hoje trabalho com Analise de Bi & Dados. 
 - 🌱 Estudando Python.
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/elizeumoyses">
