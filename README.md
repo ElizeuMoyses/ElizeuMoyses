@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Elizeu  👋
 
-- 🔭 Hoje trabalho com Analise de Bi & Dados. 
-- 🌱 Estudando Python.
+- 🔭 Hoje trabalho com Coordenador de TI. 
 
 
 <div align="center">
